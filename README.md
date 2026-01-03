@@ -25,5 +25,3 @@ UI: Custom CSS / Dark Mode
 Install dependencies: pip install dash pandas scikit-learn plotly
 
 Run the app: python app.py
-
-Access UI: Open http://127.0.0.1:8050/
